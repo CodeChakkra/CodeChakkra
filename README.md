@@ -11,15 +11,15 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodeChakkra&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" width="440" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CodeChakkra&locale=en&hide_title=false&layout=compact&langs_count=5&theme=dracula&hide_border=false&order=2" width="390" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=CodeChakkra&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" width="410" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CodeChakkra&locale=en&hide_title=false&layout=compact&langs_count=5&theme=dracula&hide_border=false&order=2" width="410" height="150" alt="languages graph"  />
 </div>
 
 ###
 
 <div align="center">
   <img align="left" height="180" src="./image.gif" />
-  <img height="60" />
+  <br />
   <span align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="24" alt="typescript logo"  />
     <img width="4" />
@@ -50,7 +50,7 @@
   <img src="https://raw.githubusercontent.com/CodeChakkra/CodeChakkra/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="470" />
 </div>
 
-<img height="30" />
+<br />
 <br clear="both">
 
 <div align="center">
